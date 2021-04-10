@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="R01_known_types_of_wood_at_a_glance">
+    <title>Known types of wood at a glance</title>
+    <shortdesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper ultricies
+        odio id tincidunt. Aliquam facilisis pellentesque felis id molestie. Aliquam et diam eget
+        nisl rhoncus gravida vitae a mauris.</shortdesc>
+    <refbody>
+        <table id="table_f2k_hsq_bpb">
+            <title>Types of wood</title>
+            <tgroup cols="7">
+                <colspec colname="c1" colnum="1" colwidth="58.5pt"/>
+                <colspec colname="c2" colnum="2" colwidth="159pt"/>
+                <colspec colname="c3" colnum="3" colwidth="149.25pt"/>
+                <colspec colname="c4" colnum="4" colwidth="105pt"/>
+                <colspec colname="c5" colnum="5" colwidth="105pt"/>
+                <colspec colname="c6" colnum="6" colwidth="90pt"/>
+                <colspec colname="c7" colnum="7" colwidth="93.75pt"/>
+                <thead>
+                    <row>
+                        <entry>Wood</entry>
+                        <entry>Picture</entry>
+                        <entry>Properties</entry>
+                        <entry>Particularities</entry>
+                        <entry>Use</entry>
+                        <entry>Structure</entry>
+                        <entry>Occurence</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Acacia</entry>
+                        <entry><image placement="inline"
+                                href="../Images/Akazie-natur-lackiert-FREEFORM-3_23072-300x212.jpg"
+                                id="image_jxw_zsq_bpb"/></entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                    </row>
+                    <row>
+                        <entry>Old wood</entry>
+                        <entry><image placement="inline"
+                                href="../Images/Altholz-mehrfarbig-lackiert-NATURE-OF-SPIRIT_15431-768x543.jpg"
+                                id="image_v2q_1tq_bpb"/></entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                    </row>
+                    <row>
+                        <entry>Oak</entry>
+                        <entry><image placement="inline"
+                                href="../Images/48-900-300-9000-_1-768x543.jpg"
+                                id="image_wfn_ltq_bpb"/></entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                    </row>
+                    <row>
+                        <entry>Mango</entry>
+                        <entry><image placement="inline" href="../Images/mangoholz-1.jpg"
+                                id="image_ddd_mtq_bpb"/></entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                    </row>
+                    <row>
+                        <entry>Sheesham / Rosewood</entry>
+                        <entry><image placement="inline" href="../Images/2_1399733798-1.jpg"
+                                id="image_w14_mtq_bpb"/></entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci, nec dignissim diam hendrerit sit amet. Ut eget odio et nulla
+                            fermentum imperdiet.</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus
+                            orci orci,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                        <entry>Lorem ipsum dolor sit amet,</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>
